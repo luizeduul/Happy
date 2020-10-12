@@ -1,12 +1,12 @@
 import React from 'react';
+import Routes from './routes';
+import './styles/global.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Olaaa</h1>
-    </div>
+    <Routes />
   );
 }
 
 export default App;
- 
+  
