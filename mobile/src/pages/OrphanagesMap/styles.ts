@@ -17,15 +17,15 @@ const styles = StyleSheet.create({
         fontFamily: 'nunito700',
         paddingHorizontal: 16,
         backgroundColor: 'rgba(255, 255, 255, 0.8)',
-        borderRadius: 16,
-        
+        borderRadius: 16,  
+        alignItems: 'center',
+        justifyContent: 'center'      
       },
       callOutText: {
         color: '#0089A5',
         fontSize: 14,
         elevation: 3,
-        alignItems: 'center',
-        justifyContent: 'center'
+        
       },
       footer: {
         position: 'absolute',
