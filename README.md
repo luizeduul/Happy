@@ -19,8 +19,9 @@
 
 ## Descrição
 
-<p>Comming soon</p>
----
+<p>O projeto Happy tem por objetivo, permitir encontrar casas de acolhimento(antigo orfatato) para que a pessoa possa realizar visitas. 
+    O projeto permite o cadastro desses locais para que sejam exibidos no mapa, que busca a localidade próxima ao usuário para mostrar os que estiverem mais perto dele.
+    Ao selecionar o orfanato serão exibidos os detalhes do mesmo, permitindo saber várias informações para auxiliar na visita.</p>
 
 ## Como utilizar 
 <p>Faça um clone desse projeto em sua máquina</p>
